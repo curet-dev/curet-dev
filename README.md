@@ -14,5 +14,4 @@
   <img src="https://discord.c99.nl/widget/theme-1/792115949972226078.png" />
   <br />
   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=bender09&theme=nord&margin-w=15&margin-h=1&column=6" />
 </p>
