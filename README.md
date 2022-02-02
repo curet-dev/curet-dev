@@ -1,5 +1,5 @@
 <h1 align="center">Bender</h1>
-<p align="center">discord.gg/wine</p>
+<p align="center">discord.gg/bender</p>
 <a href="https://github.com/bender09">
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=bender09" alt="Profile Views">
