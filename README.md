@@ -6,5 +6,6 @@
   </p>
 </a>
   <br>
-    <img style="align: center;" src="https://discord.c99.nl/widget/theme-4/206832952980668428.png" />
+  <p align="center">
+    <img src="https://discord.c99.nl/widget/theme-4/206832952980668428.png">
 </p>
