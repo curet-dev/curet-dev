@@ -4,7 +4,7 @@ Developer and Web Designer
 -------------------------
 
 * 🌍  I'm based in Austria
-* 🖥️  See my portfolio at [curet.ws](http://curet.ws)
+* 🖥️  See my portfolio at [cur.et](http://cur.et)
 * ✉️  You can contact me at [curet@haunt.gg](mailto:curet@haunt.gg)
 * 🚀  I'm currently working on [haunt.gg](http://haunt.gg)
 
